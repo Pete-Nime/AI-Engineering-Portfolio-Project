@@ -1,0 +1,5 @@
+fastmcp
+databricks-sql-connector
+python-dotenv
+pandas
+openai
